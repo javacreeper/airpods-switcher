@@ -1,4 +1,4 @@
 # Airpods Switcher
-With this small utility you can easily connect airpods to your mac and disconnect either.
+With this small utility you can easily connect airpods to your mac in a single click as well as disconnect them.
 
-Based on this video https://youtu.be/u5qb3HTGudk.
+Code based on this video: https://youtu.be/u5qb3HTGudk.
